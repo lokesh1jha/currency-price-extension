@@ -1,0 +1,11 @@
+{
+    "name": "Coindesk currency Price",
+    "version": "1.0.0",
+    "description": "latest currency price",
+    "manifest_version": 3,
+    "author": "Lokesh Jha",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Coindesk currency Price"
+    }
+}
